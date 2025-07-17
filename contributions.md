@@ -13,7 +13,7 @@ Welcome to the **edu-ai-product-engineer-2** repository! To ensure a collaborati
 
   
 ```bash
-  git clone https://github.com/YourGitHubUsername/edu-ai-product-engineer-1.git
+  git clone https://github.com/YourGitHubUsername/edu-ai-product-engineer-2.git
   ```
 
 
