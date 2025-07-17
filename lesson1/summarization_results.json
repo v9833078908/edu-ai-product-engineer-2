@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-07-06T07:04:49.099501",
+  "article_length": 26393,
+  "deterministic": {
+    "method": "deterministic_extractive",
+    "summary": "Yegge calls it \u201cThe Death of the Stubborn Developer.\u201d My ideas are shaped not only by my own past 40+ years of experience in the computer industry and the observations of developers like Yegge but also by the work of economic historian James Bessen, who studied how the first Industrial Revolution played out in the textile mills of Lowell, Massachusetts during the early 1800s. Just as the challenges of early steam power birthed metallurgy, the challenges of AI will force the emergence of new sciences of cognition, reliability, and scalability\u2014fields that don\u2019t yet fully exist.\u201d The challenge of deploying AI technologies in business Bret Taylor, formerly co-CEO of Salesforce, one-time Chief Technology Officer at Meta, and long ago, leader of the team that created Google Maps, is now the CEO of AI agent developer Sierra, a company at the heart of developing and deploying AI technology in businesses. Addy Osmani, the head of user experience for Google Chrome, calls this the 70% problem: \u201cWhile engineers report being dramatically more productive with AI, the actual software we use daily doesn\u2019t seem like it\u2019s getting noticeably better.\u201d He notes that nonprogrammers working with AI code generation tools can get out a great demo or solve a simple problem, but they get stuck on the last 30% of a complex program because they don\u2019t know enough to debug the code and guide the AI to the correct solution. Nowadays, the word \u201cwriting\u201d no longer refers to this physical act but the higher abstraction of arranging ideas into a readable format.Similarly, once the physical act of coding can be automated, the meaning of \u201cprogramming\u201d will change to refer to the act of arranging ideas into executable programs.Mehran Sahami, the chair of Stanford\u2019s CS department, put it simply: \u201cComputer science is about systematic thinking, not writing code.\u201d When AI agents start talking to agents\u2026 \u2026precision in articulating the problem correctly gets even more important. He notes that \u201ca toolchain that enables you to capture feedback and learn the edge cases to get there as quickly as possible is the winning tool chain.\u201d In the world Sankar envisions, AI is \u201cactually going to liberate developers to move into the business much more and be much more levered in the impact they deliver.\u201d Meanwhile, the top-tier subject matter experts will become programmers with the help of AI assistants.",
+    "sentences_selected": 5,
+    "total_sentences": 192,
+    "scores": {
+      "Just as the challenges of early steam power birthed metallurgy, the challenges of AI will force the emergence of new sciences of cognition, reliability, and scalability\u2014fields that don\u2019t yet fully exist.\u201d The challenge of deploying AI technologies in business Bret Taylor, formerly co-CEO of Salesforce, one-time Chief Technology Officer at Meta, and long ago, leader of the team that created Google Maps, is now the CEO of AI agent developer Sierra, a company at the heart of developing and deploying AI technology in businesses.": 3.633983344420671,
+      "Nowadays, the word \u201cwriting\u201d no longer refers to this physical act but the higher abstraction of arranging ideas into a readable format.Similarly, once the physical act of coding can be automated, the meaning of \u201cprogramming\u201d will change to refer to the act of arranging ideas into executable programs.Mehran Sahami, the chair of Stanford\u2019s CS department, put it simply: \u201cComputer science is about systematic thinking, not writing code.\u201d When AI agents start talking to agents\u2026 \u2026precision in articulating the problem correctly gets even more important.": 3.422140768305696,
+      "Addy Osmani, the head of user experience for Google Chrome, calls this the 70% problem: \u201cWhile engineers report being dramatically more productive with AI, the actual software we use daily doesn\u2019t seem like it\u2019s getting noticeably better.\u201d He notes that nonprogrammers working with AI code generation tools can get out a great demo or solve a simple problem, but they get stuck on the last 30% of a complex program because they don\u2019t know enough to debug the code and guide the AI to the correct solution.": 3.3933753452064734,
+      "Yegge calls it \u201cThe Death of the Stubborn Developer.\u201d My ideas are shaped not only by my own past 40+ years of experience in the computer industry and the observations of developers like Yegge but also by the work of economic historian James Bessen, who studied how the first Industrial Revolution played out in the textile mills of Lowell, Massachusetts during the early 1800s.": 3.3039423200763447,
+      "He notes that \u201ca toolchain that enables you to capture feedback and learn the edge cases to get there as quickly as possible is the winning tool chain.\u201d In the world Sankar envisions, AI is \u201cactually going to liberate developers to move into the business much more and be much more levered in the impact they deliver.\u201d Meanwhile, the top-tier subject matter experts will become programmers with the help of AI assistants.": 3.2903128707889
+    }
+  },
+  "probabilistic": {
+    "method": "probabilistic_abstractive",
+    "summary": "In \"The End of Programming as We Know It,\" Tim O'Reilly challenges the prevalent notion that AI will render software developers obsolete. He argues that the field of programming is not ending but evolving, a process that has been ongoing since its inception. O'Reilly traces the history of programming from its early days of manually connecting circuits and writing binary code, through the development of assembly language, to the advent of high-level and interpreted languages that made coding more accessible. He highlights the significant role of consumer operating systems like Windows in abstracting complex tasks, such as driver management, thus simplifying programming. Despite these transformations, which made certain skills obsolete, O'Reilly points out that the demand for programmers has not decreased but rather increased, with a broader audience benefiting from their work. He implies that the future of programming will similarly adapt to new challenges and opportunities, including those presented by AI, without diminishing the need for human programmers.",
+    "word_count": 159,
+    "model": "gpt-4-turbo-preview",
+    "temperature": 0.7
+  },
+  "comparison": {
+    "similarity_scores": {
+      "summary1_to_original": 0.8217819917120296,
+      "summary2_to_original": 0.6514320028943605,
+      "between_summaries": 0.6093973366682489
+    },
+    "compression_ratios": {
+      "summary1": 0.09009216589861752,
+      "summary2": 0.03663594470046083
+    },
+    "readability": {
+      "summary1_avg_sentence_length": 78.2,
+      "summary2_avg_sentence_length": 26.5
+    },
+    "lengths": {
+      "original_words": 4340,
+      "summary1_words": 391,
+      "summary2_words": 159
+    }
+  }
+}
